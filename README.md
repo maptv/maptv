@@ -1,4 +1,4 @@
-<img src="desk.jpeg" width="600" align="right">
+<img src="desk.png" width="600" align="right">
 
 ## Greetings! <img src="https://raw.githubusercontent.com/mskar/mskar/master/wave.gif" width="30px">
 
