@@ -1,6 +1,6 @@
 <img src="desk.png" width="600" align="right">
 
-## Greetings! <img src="https://raw.githubusercontent.com/mskar/mskar/master/wave.gif" width="30px">
+### Greetings! <img src="https://raw.githubusercontent.com/mskar/mskar/master/wave.gif" width="30px">
 
 My name is Martin Skarzynski.
 
@@ -13,7 +13,7 @@ I write✏️ about topics related to data science, machine learning, and comput
 
 My professional information is summarized in <a href = "https://mskar.github.io/cv">my Résumé / Curriculum Vitae</a><i class="fa fa-address-card"></i>.
 
-## Technologies💻
+### Technologies💻
 ![](https://img.shields.io/badge/-Anaconda-informational?style=flat&logo=Anaconda&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-DataSpell-informational?style=flat&logo=jetbrains&logoColor=white&color=2bbc8a)
@@ -45,7 +45,7 @@ My professional information is summarized in <a href = "https://mskar.github.io/
 ![](https://img.shields.io/badge/-Vim-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-WebStorm-informational?style=flat&logo=webstorm&logoColor=white&color=2bbc8a)
 
-## Languages😛
+### Languages😛
 
 I speak
 - English🇺🇸
@@ -54,7 +54,7 @@ I speak
 - Russian🇷🇺
 - Spanish🇪🇸
 
-## Education🎓
+### Education🎓
 
 I hold
 - an MPH in Epidemiologic and Biostatistical Methods for Public Health and Clinical Research and a certificate in Data Science from Johns Hopkins University,
@@ -62,7 +62,7 @@ I hold
 - an MS in Biotechnology from Jagiellonian University in Poland, and
 - a BA in Biology from St. Mary’s College of Maryland.
 
-## Mission🚀
+### Mission🚀
 
 My primary research interest is in understanding health risk factors by combining scientific expertise from diverse fields with machine intelligence.
 
